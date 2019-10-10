@@ -1,6 +1,7 @@
 # Parser
 by Jeremiah Mullane
-Parser for a theoretical programming language "Jay" written in Java. Practicum for CS321 Programming Languages at Ithaca College
+
+Parser and Tokenizer for a theoretical programming language "Jay" written in Java. Practicum for CS321 Programming Languages at Ithaca College
 
 "Jay" is a toy programming language with simplified syntax for learning purposes.
 This Repo also contains a Tokenizer for "Jay".
