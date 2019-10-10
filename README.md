@@ -9,4 +9,4 @@ The tokenizer pulls a character stream from a text file and generates an array o
 The parser generates a syntax tree based on the tokenstream, ensuring the program conforms to Jay syntax.
 The parse tree is then ready to be passed on to a Code Generator for final conversion into executable code (not part of this project).
 
-The Tokenizer and the Parser comnprise the two Front-End components of a fully functional Compiler.
+The Tokenizer and the Parser comprise the two Front-End components of a fully functional Compiler.
